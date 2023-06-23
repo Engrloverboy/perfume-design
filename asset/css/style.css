@@ -62,3 +62,6 @@ button {
   justify-content: space-around;
   align-items: center;
 }
+button .fa-solid {
+  padding-right: 4px;
+}
